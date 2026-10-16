@@ -1,7 +1,5 @@
 # Mi primer proyecto con Spring Boot: `holamund`
 
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/TU_USUARIO/TU_REPOSITORIO)
-
 Actividad práctica en la que se crea, ejecuta y prueba una aplicación **Spring Boot** con tres endpoints REST, aplicando controladores, servicios, inyección de dependencias y configuración externa.
 
 **Autor:** Daniel José Sierra Ricaurte
